@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+*.o
+*.bin
+*.elf
+.DS_Store
+./lib
+./test
